@@ -32,9 +32,9 @@ I'm a B.Tech CSE student with a passion for full-stack development, UI/UX design
 - **1st Semester CGPA:** 9.62
 
 ## 📌 Let's Connect
-- **LinkedIn:** [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/jagjeet-dangar/)
-- **GitHub:** [[Your GitHub Profile](#)](https://github.com/jagjeet1917dangar?tab=repositories)
-- **Portfolio:** (https://rainbow-kulfi-db2a6d.netlify.app/)
+- **LinkedIn:** https://www.linkedin.com/in/jagjeet-dangar/
+- **GitHub:** https://github.com/jagjeet1917dangar?tab=repositories
+- **Portfolio:** https://rainbow-kulfi-db2a6d.netlify.app/
 
 ---
 ⚡ Always open to collaborations and exciting projects! Feel free to reach out!
